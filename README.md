@@ -1,4 +1,4 @@
-wlbp.github.io
+Dade County ARES Website
 ==============
 
-ARES website
+http://dadehams.com/
