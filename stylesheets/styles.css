@@ -1,9 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  font:15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#555;
   font-weight:300;
 }
 
@@ -99,6 +97,14 @@ header {
   width:270px;
   float:left;
   position:fixed;
+}
+
+header p {
+  margin:0 0 20px;
+}
+
+header h4 {
+  margin:0;
 }
 
 header ul {
